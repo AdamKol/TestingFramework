@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UBSTestingFramework", "UBSTestingFramework\UBSTestingFramework.csproj", "{646511FF-0198-4FAA-8180-0F6F597AD0DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646511FF-0198-4FAA-8180-0F6F597AD0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646511FF-0198-4FAA-8180-0F6F597AD0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646511FF-0198-4FAA-8180-0F6F597AD0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646511FF-0198-4FAA-8180-0F6F597AD0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03D5EB52-1B2A-4CA5-BC0D-CD2777EFC87C}
+	EndGlobalSection
+EndGlobal
