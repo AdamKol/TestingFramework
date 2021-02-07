@@ -27,13 +27,13 @@ namespace UBSTestingFramework.Pages
             return Header != null;
         }
 
-        protected void NavigateToSearchJobsPage()
+        public void NavigateToSearchJobsPage()
         {
             if (CareersMenu != null) CareersMenu.Click();
             if (CareersMenuSearchJobsItem != null) CareersMenuSearchJobsItem.Click();
         }
 
-        protected void SearchForText(string text)
+        public void SearchForText(string text)
         {
             if (ShowSearchFieldButton != null) ShowSearchFieldButton.Click();
             if (SearchboxInput != null) SearchboxInput.SendKeys(text);
